@@ -5,6 +5,9 @@
 ## 📝 Project Overview
 This project presents an exploratory and multivariate analysis of the 2026 Data Visualization cohort. Using data collected from 22 students, the study explores how interests in areas like Mathematics, Arts, and Programming intersect to create unique professional archetypes.
 
+## 🚀 Interactive Report
+**[CLICK HERE TO VIEW THE INTERACTIVE HTML REPORT](https://joel-m-a.io/UD-identity-mapping-viz-2026/)**
+
 The analysis focuses on:
 *   **Global Structure**: Identifying patterns that define the group's identity.
 *   **Individual Positioning**: Mapping specific profiles (like my own) within a high-dimensional feature space.
