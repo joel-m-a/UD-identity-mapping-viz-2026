@@ -9,9 +9,6 @@ The analysis focuses on:
 *   **Global Structure**: Identifying patterns that define the group's identity.
 *   **Individual Positioning**: Mapping specific profiles (like my own) within a high-dimensional feature space.
 
-## 🚀 Interactive Report
-**[CLICK HERE TO VIEW THE INTERACTIVE HTML REPORT](https://joel-m-a/UD-identity-mapping-viz-2026/)**  
-
 ## 🛠️ Tech Stack & Methodology
 *   **Language:** R
 *   **Environment:** Quarto (HTML output with embedded resources)
